@@ -23,10 +23,15 @@ Risk Factors
 Several risk factors contribute to the development of colorectal cancer, including:
 
 Age: The risk increases with age, with the majority of cases occurring in individuals over 50.
+
 Diet: Diets high in red and processed meats and low in fruits, vegetables, and fiber can increase the risk.
+
 Lifestyle: Sedentary lifestyle, obesity, smoking, and heavy alcohol consumption are significant risk factors.
+
 Family History: A family history of colorectal cancer or polyps increases an individual’s risk.
+
 Inflammatory Bowel Disease: Conditions such as Crohn’s disease and ulcerative colitis elevate the risk.
+
 Importance of Early Detection
 Early detection through screening is crucial in reducing the mortality rate of colorectal cancer. Screening methods such as colonoscopy, fecal occult blood tests (FOBT), and sigmoidoscopy can detect precancerous polyps, which can be removed before they develop into cancer. Regular screening is recommended for individuals aged 50 and above, or earlier for those with a family history or other risk factors.
 
@@ -34,8 +39,11 @@ Prevention Strategies
 Preventing colorectal cancer involves a combination of lifestyle modifications and regular screenings. Key prevention strategies include:
 
 Healthy Diet: Consuming a diet rich in fruits, vegetables, whole grains, and lean proteins while limiting red and processed meats.
+
 Regular Exercise: Engaging in regular physical activity to maintain a healthy weight.
+
 Avoiding Tobacco and Excessive Alcohol: Quitting smoking and moderating alcohol intake.
+
 Screening and Surveillance: Adhering to recommended screening schedules based on individual risk factors.
 
 Colorectal cancer is a significant global health challenge, but with increased awareness, early detection, and preventive measures, the burden of this disease can be reduced. Public health initiatives and individual actions can play a pivotal role in combating colorectal cancer and improving outcomes for those affected.
