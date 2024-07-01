@@ -1,18 +1,41 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Colorectal cancer
+subtitle: Introduction to the Colorectal Cancer
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
-author: Sharon Smith and Barry Simpson
+author: Mahsa Dehghnm
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+The Global Statistics of Colorectal Cancer
+Introduction
+Colorectal cancer (CRC) is a major public health concern worldwide, ranking as the third most common cancer and the second leading cause of cancer-related deaths. This blog delves into the global statistics of colorectal cancer, shedding light on its prevalence, risk factors, and the importance of early detection and prevention.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+Global Prevalence
+Colorectal cancer affects millions of individuals globally. According to the World Health Organization (WHO), there were approximately 1.93 million new cases of colorectal cancer in 2020, accounting for about 10% of all cancer cases worldwide. The incidence rates vary significantly across different regions, with higher rates observed in developed countries such as the United States, Australia, and Western Europe.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+Mortality Rates
+Despite advancements in medical technology and treatment options, colorectal cancer remains a leading cause of cancer-related mortality. In 2020, there were nearly 935,000 deaths attributed to colorectal cancer globally. The mortality rates are particularly high in regions with limited access to healthcare and screening programs, highlighting the need for improved healthcare infrastructure and awareness campaigns.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Risk Factors
+Several risk factors contribute to the development of colorectal cancer, including:
+
+Age: The risk increases with age, with the majority of cases occurring in individuals over 50.
+Diet: Diets high in red and processed meats and low in fruits, vegetables, and fiber can increase the risk.
+Lifestyle: Sedentary lifestyle, obesity, smoking, and heavy alcohol consumption are significant risk factors.
+Family History: A family history of colorectal cancer or polyps increases an individual’s risk.
+Inflammatory Bowel Disease: Conditions such as Crohn’s disease and ulcerative colitis elevate the risk.
+Importance of Early Detection
+Early detection through screening is crucial in reducing the mortality rate of colorectal cancer. Screening methods such as colonoscopy, fecal occult blood tests (FOBT), and sigmoidoscopy can detect precancerous polyps, which can be removed before they develop into cancer. Regular screening is recommended for individuals aged 50 and above, or earlier for those with a family history or other risk factors.
+
+Prevention Strategies
+Preventing colorectal cancer involves a combination of lifestyle modifications and regular screenings. Key prevention strategies include:
+
+Healthy Diet: Consuming a diet rich in fruits, vegetables, whole grains, and lean proteins while limiting red and processed meats.
+Regular Exercise: Engaging in regular physical activity to maintain a healthy weight.
+Avoiding Tobacco and Excessive Alcohol: Quitting smoking and moderating alcohol intake.
+Screening and Surveillance: Adhering to recommended screening schedules based on individual risk factors.
+
+Colorectal cancer is a significant global health challenge, but with increased awareness, early detection, and preventive measures, the burden of this disease can be reduced. Public health initiatives and individual actions can play a pivotal role in combating colorectal cancer and improving outcomes for those affected.
