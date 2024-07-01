@@ -1,95 +1,44 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: Colorectal Cancer Treatment
+#subtitle: There's lots to learn!
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+gh-badge: [colorectal cancer, colon polyp, cancer, treatment, surgery]
+tags: [colorectal cancer, colon polyp, cancer, treatment, surgery]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Mahsa Dehghnm
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Treatment and Care
+The treatment and care for colorectal cancer depend on the type, stage, and individual medical history of the patient. Early detection often results in more effective treatments and improved outcomes.
 
-**Here is some bold text**
+Treatment Options:
+Surgery: Commonly used in the early stages when the tumor hasn't spread.
+Radiotherapy: Utilizes radiation to target and shrink tumors.
+Chemotherapy: Involves the use of drugs to kill or slow the growth of cancer cells.
+Targeted Therapy: Focuses on specific genetic mutations within cancer cells.
+Immunotherapy: Boosts the body's immune system to fight cancer.
+A multidisciplinary approach is often adopted, involving doctors from various specialties to provide comprehensive care for colorectal cancer patients. Supportive care plays a crucial role in managing symptoms, providing pain relief, and offering emotional support, thus enhancing the quality of life for patients and their families.
 
-## Here is a secondary heading
+Stages of Care
+Early Stage Disease
+For early-stage colorectal cancer (confined to the bowel or nearby lymph nodes without distant spread), surgery is the primary treatment. This may involve:
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+Colectomy: Removal of part of the colon.
+Proctectomy: Removal of the rectum.
+Colostomy/Ileostomy: Creating an opening for waste elimination if necessary.
+Adjuvant therapy, such as chemotherapy, may be recommended post-surgery to reduce the risk of recurrence, especially in patients with a higher likelihood of recurrence due to lymph node involvement or specific tumor characteristics. Neoadjuvant chemotherapy (before surgery) and radiation therapy (for rectal tumors) can also be employed to shrink tumors.
 
-Here's a table:
+Post-treatment, regular follow-up visits and surveillance, including physical exams, blood tests, and imaging studies, are essential to detect any signs of recurrence early.
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+Advanced Disease
+For metastatic colorectal cancer, systemic therapy is the primary treatment. This includes:
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+Chemotherapy: Often used as the first-line treatment.
+Targeted Therapy: Used alongside chemotherapy for specific genetic mutations like KRAS or BRAF.
+Immunotherapy: Considered for tumors with genetic markers such as MSI-H or dMMR.
+In some cases, surgery may be recommended to remove symptomatic tumors or those causing intestinal blockage. Localized treatments, such as radiofrequency ablation, cryoablation, or radiation therapy, may address specific metastases, such as liver tumors, to control the disease and manage symptoms like pain or bleeding.
 
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+Clinical Trials
+Clinical trials provide access to new or experimental treatments and contribute to advancing medical knowledge. Participation in these trials can offer patients new treatment options and potentially improve outcomes.
