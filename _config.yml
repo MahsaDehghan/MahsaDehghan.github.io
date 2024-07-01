@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Intelligent Medical Diagnosis Assistant (Imeda)
+title: Intelligent Medical Diagnosis Assistant (IMEDA)
 
 # Your name to show in the footer
 author: Mahsa Dehghanm
@@ -20,11 +20,11 @@ author: Mahsa Dehghanm
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About IMEDA: "aboutme"
+  IMEDA app:  "blank"
+    # - Imeda-Colon: "blank"
+    # - Learn markdown: "blank"
+  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
